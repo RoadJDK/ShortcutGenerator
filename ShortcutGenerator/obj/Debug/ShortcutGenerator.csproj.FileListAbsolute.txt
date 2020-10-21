@@ -1,0 +1,12 @@
+C:\Users\me\source\repos\ShortcutGenerator\ShortcutGenerator\obj\Debug\ShortcutGenerator.csprojAssemblyReference.cache
+C:\Users\me\source\repos\ShortcutGenerator\ShortcutGenerator\obj\Debug\ShortcutGenerator.Form1.resources
+C:\Users\me\source\repos\ShortcutGenerator\ShortcutGenerator\obj\Debug\ShortcutGenerator.Properties.Resources.resources
+C:\Users\me\source\repos\ShortcutGenerator\ShortcutGenerator\obj\Debug\ShortcutGenerator.csproj.GenerateResource.cache
+C:\Users\me\source\repos\ShortcutGenerator\ShortcutGenerator\obj\Debug\ShortcutGenerator.csproj.CoreCompileInputs.cache
+C:\Users\me\source\repos\ShortcutGenerator\ShortcutGenerator\bin\Debug\ShortcutGenerator.exe.config
+C:\Users\me\source\repos\ShortcutGenerator\ShortcutGenerator\bin\Debug\ShortcutGenerator.exe
+C:\Users\me\source\repos\ShortcutGenerator\ShortcutGenerator\bin\Debug\ShortcutGenerator.pdb
+C:\Users\me\source\repos\ShortcutGenerator\ShortcutGenerator\obj\Debug\ShortcutGenerator.exe
+C:\Users\me\source\repos\ShortcutGenerator\ShortcutGenerator\obj\Debug\ShortcutGenerator.pdb
+C:\Users\me\source\repos\ShortcutGenerator\ShortcutGenerator\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\me\source\repos\ShortcutGenerator\ShortcutGenerator\obj\Debug\ShortcutGenerator.csproj.ResolveComReference.cache
